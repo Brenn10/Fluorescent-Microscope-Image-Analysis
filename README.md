@@ -1,2 +1,2 @@
-# Fluorescent-Microscope-Image-Analysis
+# LumCalc
 Image analysis of luminescent C. Elegans
